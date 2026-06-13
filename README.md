@@ -1,16 +1,44 @@
-## Hi there 👋
+Hi, I’m Adriana 👋
 
-<!--
-**AdriCR92/AdriCR92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Junior Web Developer
+📍 Virginia, USA
+🌱 Currently studying Web Development at TripleTen
+☕ Coffee Lover
 
-Here are some ideas to get you started:
+About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Customer Service and Operations Professional transitioning into Web Development.
+
+Currently building responsive and interactive web applications using:
+
+* HTML5
+* CSS3
+* JavaScript
+* Git
+* GitHub
+* Responsive Design
+
+I enjoy creating clean, user-friendly websites and continuously improving my technical skills.
+
+Featured Projects
+
+🌐 Personal Portfolio
+
+Responsive portfolio website showcasing my projects and technical skills.
+
+☕ Triple Espresso Coffee Shop
+
+Responsive landing page built with HTML and CSS.
+
+🌎 Around the U.S.
+
+Interactive JavaScript application featuring dynamic cards, modals, and form validation.
+
+Connect With Me
+
+📧 adricr2004@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/adriana-capriles-rivera/
+
+🚀 Portfolio: https://github.com/AdriCR92/web_project_potrfolio_es
+
